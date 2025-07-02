@@ -3,6 +3,6 @@
 <br>
 New connection
 <br>
-Bandwidt Upgrade
+Bandwidth Upgrade
 <br>
 Bandwidth Downgrade
